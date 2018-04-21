@@ -1,0 +1,1 @@
+docker-machine --storage-path "/goinfre" ip Char

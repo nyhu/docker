@@ -1,0 +1,4 @@
+docker run -dit --name Abathur -p 3000:3000 -v "$PWD":/root python:2-slim
+docker exec Abathur pip install Flask
+
+#unfinished
