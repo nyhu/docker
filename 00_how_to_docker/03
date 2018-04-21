@@ -1,1 +1,1 @@
-eval $(docker-machine --storage-path "/goinfre" env Char)
+eval `docker-machine --storage-path "/goinfre" env Char`
